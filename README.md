@@ -13,10 +13,10 @@ I combine **creative media production** with growing **computer science and tech
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-YOUR_PORTFOLIO_URL-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anilmahato06">
   <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/anilmahato06">
   <img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_URL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
 </a>
 <a href="mailto:YOUR_EMAIL">
