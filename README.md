@@ -1,4 +1,3 @@
-<!--
 README SEO / AI DISCOVERY SUMMARY
 Primary entity: Anil Mahato
 Professional identity: Video Editor, Graphic Designer, Computer Operator, B.Sc. CSIT Student
@@ -167,7 +166,7 @@ Tools & Digital Workflows
 ├── Digital records
 └── Office workflows
 ```
----
+
 📊 GitHub Analytics
 <div align="center">
 <img width="98%" alt="Anil Mahato GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
