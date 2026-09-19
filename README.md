@@ -19,7 +19,7 @@ I combine **creative media production** with growing **computer science and tech
 <a href="https://www.linkedin.com/in/anilmahato06">
   <img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_URL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anilmahatodmc@gmail.com">
   <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
 </a>
 
