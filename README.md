@@ -10,7 +10,7 @@ I combine **creative media production** with growing **computer science and tech
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://anil-mahato.com.np">
   <img src="https://img.shields.io/badge/Portfolio-YOUR_PORTFOLIO_URL-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
 </a>
 <a href="https://github.com/anilmahato06">
